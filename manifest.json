@@ -1,0 +1,24 @@
+{
+  "name": "Muscat Auction",
+  "short_name": "Muscat Auction",
+  "description": "Premier digital marketplace for luxury vehicles and real estate in Oman.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050505",
+  "theme_color": "#1E3A8A",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRFXPObEuOdFxXhjBmKkLuttPG5RS_M3D5qLRA-sPccZ4bER8pQT4p-FOAMNgiiNfgd-1XewlF-dMtmpHlbBXL102POWiwD2FhCy-_wkUPQ48q-rNiCsFNHtrkEOrW47mC3_GTuvFaa0mCPOk5jGxqwZjrLXuQjcb3hnl5pU85_FWRrLmCYgS4wiIUkd71/s192/WhatsApp%20Image%202026-04-17%20at%203.14.28%20PM.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRFXPObEuOdFxXhjBmKkLuttPG5RS_M3D5qLRA-sPccZ4bER8pQT4p-FOAMNgiiNfgd-1XewlF-dMtmpHlbBXL102POWiwD2FhCy-_wkUPQ48q-rNiCsFNHtrkEOrW47mC3_GTuvFaa0mCPOk5jGxqwZjrLXuQjcb3hnl5pU85_FWRrLmCYgS4wiIUkd71/s512/WhatsApp%20Image%202026-04-17%20at%203.14.28%20PM.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}
