@@ -24,16 +24,18 @@
   ],
   "screenshots": [
     {
-      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRFXPObEuOdFxXhjBmKkLuttPG5RS_M3D5qLRA-sPccZ4bER8pQT4p-FOAMNgiiNfgd-1XewlF-dMtmpHlbBXL102POWiwD2FhCy-_wkUPQ48q-rNiCsFNHtrkEOrW47mC3_GTuvFaa0mCPOk5jGxqwZjrLXuQjcb3hnl5pU85_FWRrLmCYgS4wiIUkd71/s1600/mobile-shot.png",
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRFXPObEuOdFxXhjBmKkLuttPG5RS_M3D5qLRA-sPccZ4bER8pQT4p-FOAMNgiiNfgd-1XewlF-dMtmpHlbBXL102POWiwD2FhCy-_wkUPQ48q-rNiCsFNHtrkEOrW47mC3_GTuvFaa0mCPOk5jGxqwZjrLXuQjcb3hnl5pU85_FWRrLmCYgS4wiIUkd71/s1600/mobile-capture.png",
       "sizes": "1080x1920",
       "type": "image/png",
-      "form_factor": "narrow"
+      "form_factor": "narrow",
+      "label": "Mobile Bidding"
     },
     {
-      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRFXPObEuOdFxXhjBmKkLuttPG5RS_M3D5qLRA-sPccZ4bER8pQT4p-FOAMNgiiNfgd-1XewlF-dMtmpHlbBXL102POWiwD2FhCy-_wkUPQ48q-rNiCsFNHtrkEOrW47mC3_GTuvFaa0mCPOk5jGxqwZjrLXuQjcb3hnl5pU85_FWRrLmCYgS4wiIUkd71/s1600/desktop-shot.png",
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRFXPObEuOdFxXhjBmKkLuttPG5RS_M3D5qLRA-sPccZ4bER8pQT4p-FOAMNgiiNfgd-1XewlF-dMtmpHlbBXL102POWiwD2FhCy-_wkUPQ48q-rNiCsFNHtrkEOrW47mC3_GTuvFaa0mCPOk5jGxqwZjrLXuQjcb3hnl5pU85_FWRrLmCYgS4wiIUkd71/s1600/desktop-capture.png",
       "sizes": "1920x1080",
       "type": "image/png",
-      "form_factor": "wide"
+      "form_factor": "wide",
+      "label": "Desktop Auction House"
     }
   ]
 }
